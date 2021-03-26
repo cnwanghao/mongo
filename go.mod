@@ -1,4 +1,4 @@
-module github.com/cnwanghao/mongo
+module github.com/cnwanghao/mongo/v4
 
 go 1.13
 
