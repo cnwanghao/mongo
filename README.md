@@ -15,7 +15,7 @@ package main
 
 import (
 	"gopkg.in/go-oauth2/mongo.v3"
-	"gopkg.in/oauth2.v3/manage"
+	"github.com/go-oauth2/oauth2/v4/manage"
 )
 
 func main() {
